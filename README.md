@@ -54,4 +54,3 @@ Proyek ini dibangun menggunakan tools dan library berikut:
 
 Firman Maulana Putra  
 GitHub: [@firmanmaulana123](https://github.com/firmanmaulana123)  
-Add initial README for Boston Housing EDA
